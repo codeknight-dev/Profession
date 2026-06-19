@@ -9,17 +9,11 @@ I'm passionate about building web applications, solving real-world problems thro
 
 💻 Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MySQL
-- Git & GitHub
-- Docker
-- Linux
-- Cloud Computing
+## 💻 Full Stack Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,docker,linux" />
+</p>
 
 🌱 Currently Learning
 
