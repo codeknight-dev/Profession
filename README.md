@@ -9,6 +9,9 @@ I build modern web applications using React.js, Node.js, Express.js, and MySQL.
 
 I am passionate about software engineering, cloud technologies, and Internet of Things (IoT), with a long-term goal of building smart solutions that solve real-world problems.
 
+![GitHub Stats]
+(https://github-readme-stats.vercel.app/api?username=codeknight-dev&show_icons=true&theme=tokyonight)
+
 
 💻 Technologies
 
