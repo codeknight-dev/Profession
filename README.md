@@ -3,7 +3,7 @@ About my profession
 
 Hi, I'm Mohamed Adam Mustapha 👋
 
-🚀 Junior Full Stack JavaScript Developer
+🚀 Full Stack JavaScript Developer
 
 I'm passionate about building web applications, solving real-world problems through technology, and continuously improving my software development skills.
 
