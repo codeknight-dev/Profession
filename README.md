@@ -5,7 +5,10 @@ Hi, I'm Mohamed Adam Mustapha 👋
 
 🚀 Full Stack JavaScript Developer
 
-I'm passionate about building web applications, solving real-world problems through technology, and continuously improving my software development skills.
+I build modern web applications using React.js, Node.js, Express.js, and MySQL.
+
+I am passionate about software engineering, cloud technologies, and Internet of Things (IoT), with a long-term goal of building smart solutions that solve real-world problems.
+
 
 💻 Technologies
 
@@ -30,5 +33,5 @@ To become a Software Engineer and IoT Specialist building smart solutions that i
 📫 Contact
 
 Email: codeknight105@gmail.com
-
+LinkedIn:
 Location: Dar es Salaam, Tanzania
